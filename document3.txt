@@ -1,5 +1,4 @@
-#메인에서 수정됨
-
+#conflicted file checked
 h = hello
 
 w = world
